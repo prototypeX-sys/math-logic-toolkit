@@ -1,0 +1,3 @@
+# MLPT - Math Learning Python Toolkit
+# This project uses only Python standard library
+# No external dependencies required
